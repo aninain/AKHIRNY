@@ -32,7 +32,7 @@
    <audio src="videoplayback (mp3cut.net).mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
-     <!-- Wallpaper --><img src="https://private-user-images.githubusercontent.com/155887265/294756563-47761adf-30c2-4aa3-9b3a-27c05fadeb97.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ2MjkzNTcsIm5iZiI6MTcwNDYyOTA1NywicGF0aCI6Ii8xNTU4ODcyNjUvMjk0NzU2NTYzLTQ3NzYxYWRmLTMwYzItNGFhMy05YjNhLTI3YzA1ZmFkZWI5Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwN1QxMjA0MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZWI1Y2Q2ZmRlNzZkY2EyNDFlZjc0NGNkNDMxYWVmMTNjMzliZWQ2MzI1NWIxYjNjNTE5YjA3M2EyYzQ4NmY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Jf2RGHrbw7hR54MeHXr-edR7NleyZg2Mt8vJl7MuVG8" id="wallpaper"/><div id="beneranblur"></div>
+     <!-- Wallpaper --><img src="https://github.com/aninain/apCBadYgUlth/issues/1#issue-2069151834" id="wallpaper"/><div id="beneranblur"></div>
    </div>
    
    <div id='Content'>
