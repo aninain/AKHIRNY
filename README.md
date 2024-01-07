@@ -59,8 +59,7 @@ From your lil bro
      
      <div><blockquote id='bq' data-text='㋡'>
        <p id="kalimat">Aku Ada Sesuatu Nah 🤣❤️</p>
-       <!-- Pesan -->
-       <p id="pesan1">Klik 4 LOVE di Bawah! 😆❤️</p>
+      <p id="kalimat">Klik 4 LOVE di Bawah! 😆❤️</p>
        <div id="kolombaru">
          <li id="lv1">🤍</li>
          <li id="lv2">🤍</li>
@@ -68,17 +67,17 @@ From your lil bro
          <li id="lv4">🤍</li>
        </div>
 
-       <p id="pesan2">Tunggu...</p>
+       <p id="kalimat">Tunggu...</p>
        <!-- Pesan -->
-       <p id="pesan3">Ciee.. Ada yang Ultah Nih 🤣❤️</p>
-       <p id="pesan4">Happy Birthday, </p>
-       <p id="pesan5" class="gaya2">Nambah tua aja lah pian, hehe</p>
-       <p id="pesan6" class="gaya2">Mudahan panjang umur tambah rezeki biar tiap tahun bisa muncak traktir kami wkwk 😆❤️</p>
-       <p id="pesan7" class="gaya2">Sehat selalu ya!</p>
+       <p id="pesan1">Ciee.. Ada yang Ultah Nih 🤣❤️</p>
+       <p id="pesan2">Happy Birthday, </p>
+       <p id="pesan3" class="gaya2">Nambah tua aja lah pian, hehe</p>
+       <p id="pesan4" class="gaya2">Mudahan panjang umur tambah rezeki biar tiap tahun bisa muncak traktir kami wkwk 😆❤️</p>
+       <p id="pesan5" class="gaya2">Sehat selalu ya!</p>
 
-       <p id="pesan8" class="gaya2">Canda wkwwk :v</p>
-       <p id="pesan9" class="gaya2">Oh iya, mudahan di hari spesial ini pian dapat menjadi pribadi yang lebih baik jar Rahma tuh GlowUP LEVEL UPP.. 🥳❤️</p>
-       <p id="pesan10" class="gaya2">Happy Level Up Day!! 🥳</p>
+       <p id="pesan6" class="gaya2">Canda wkwwk :v</p>
+       <p id="pesan7" class="gaya2">Oh iya, mudahan di hari spesial ini pian dapat menjadi pribadi yang lebih baik jar Rahma tuh GlowUP LEVEL UPP.. 🥳❤️</p>
+       <p id="pesan8" class="gaya2">Happy Level Up Day!! 🥳</p>
 
        <!-- Tombol Lanjut -->
        <p id="opsL">Klik untuk Lanjut</p>
