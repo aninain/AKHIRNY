@@ -57,10 +57,8 @@ From your lil bro
      
      <p id="halo" class="halo"></p>
      
-     
      <div><blockquote id='bq' data-text='㋡'>
-       <p id="kalimat">Aku Ada Sesuatu Nih 🤣❤️</p>
-
+       <p id="kalimat">Aku Ada Sesuatu Nah 🤣❤️</p>
        <p id="pesan1">Klik 4 LOVE di Bawah! 😆❤️</p>
        <div id="kolombaru">
          <li id="lv1">🤍</li>
