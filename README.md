@@ -59,7 +59,7 @@ From your lil bro
      
      <div><blockquote id='bq' data-text='㋡'>
        <p id="kalimat">Aku Ada Sesuatu Nah 🤣❤️</p>
-       <p id="pesan1">Klik 4 LOVE di Bawah! 😆❤️</p>
+       <p id="pesan1">Apa ini??!! 😆</p>
        <div id="kolombaru">
          <li id="lv1">🤍</li>
          <li id="lv2">🤍</li>
@@ -67,7 +67,7 @@ From your lil bro
          <li id="lv4">🤍</li>
        </div>
 
-       <p id="pesan2">Tunggu...</p>
+       <p id="pesan2">hmmm..</p>
        <!-- Pesan -->
        <p id="pesan3">Ciee.. Ada yang Ultah Nih 🤣❤️</p>
        <p id="pesan4">Happy Birthday, </p>
