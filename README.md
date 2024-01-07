@@ -69,7 +69,7 @@ From your lil bro
 
        <p id="pesan2">hmmm..</p>
        <!-- Pesan -->
-       <p id="pesan3">Ciee.. Ada yang Ultah Nih 🤣❤️</p>
+       <p id="pesan3">Ciee.. Ada yang Ultah Nih 🤣</p>
        <p id="pesan4">Happy Birthday, </p>
        <p id="pesan5" class="gaya2">Nambah tua aja lah pian, hehe</p>
        <p id="pesan6" class="gaya2">Mudahan panjang umur tambah rezeki biar tiap tahun bisa muncak traktir kami wkwk 😆❤️</p>
@@ -116,7 +116,7 @@ From your lil bro
   }
 
   //Variable Pertanyaan Akhir
-  var tanya = 'Handak Kado kada? 😶❤️';
+  var tanya = 'Handak Kado kada? 😶';
   var opstanya = 'Ayo jawab 😆';
   var tompositif = 'Mau';
   var tomnegatif = 'kada';
