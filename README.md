@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+SELAMAT ULANG TAHUN BIGGER BRO
+
+
+
+
 <html lang="id">
 <meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
   
@@ -127,7 +131,3 @@
 <!-- Sampai Sini -->
 </body>
   </html>
-
-
-
-Click to visit website : https://aninain.github.io/AKHIRNY/
