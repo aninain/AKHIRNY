@@ -59,7 +59,7 @@ From your lil bro
      
      <div><blockquote id='bq' data-text='㋡'>
        <p id="kalimat">Aku Ada Sesuatu Nah 🤣❤️</p>
-
+       <!-- Pesan -->
        <p id="pesan1">Klik 4 LOVE di Bawah! 😆❤️</p>
        <div id="kolombaru">
          <li id="lv1">🤍</li>
